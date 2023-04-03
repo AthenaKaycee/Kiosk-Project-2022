@@ -1,0 +1,15 @@
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\bin\Debug\net6.0\Kiosk_Project_KenMat2022.exe
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\bin\Debug\net6.0\Kiosk_Project_KenMat2022.deps.json
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\bin\Debug\net6.0\Kiosk_Project_KenMat2022.runtimeconfig.json
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\bin\Debug\net6.0\Kiosk_Project_KenMat2022.dll
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\bin\Debug\net6.0\Kiosk_Project_KenMat2022.pdb
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\Kiosk_Project_KenMat2022.csproj.AssemblyReference.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\Kiosk_Project_KenMat2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\Kiosk_Project_KenMat2022.AssemblyInfoInputs.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\Kiosk_Project_KenMat2022.AssemblyInfo.cs
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\Kiosk_Project_KenMat2022.csproj.CoreCompileInputs.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\Kiosk_Project_KenMat2022.dll
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\refint\Kiosk_Project_KenMat2022.dll
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\Kiosk_Project_KenMat2022.pdb
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\Kiosk_Project_KenMat2022.genruntimeconfig.cache
+C:\Users\kcbow\OneDrive\Desktop\Coding Practice 22-23\Kiosk_Project_KenMat2022\obj\Debug\net6.0\ref\Kiosk_Project_KenMat2022.dll
